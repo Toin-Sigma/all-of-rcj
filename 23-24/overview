@@ -15,4 +15,4 @@ ball sensor    : tssp58038
 line sensor    : White LED
                  NJL7502L
 ---
-DCDC converter : OKLT6W12
+DCDC converter : OKLT6W12 *2

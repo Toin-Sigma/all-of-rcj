@@ -1,0 +1,18 @@
+frame          : CNC (acrylic)
+                 CNC (aluminum)
+cover          : 3D print (PLA)
+                 3D print (ABS)
+                 3D print (Clear Resin)
+---
+battery        : Ni-MH 8.4V
+---
+microcomputer  : Arduino Mega 2560 Pro mini
+---
+motor          : Pololu - 9.7:1 Metal Gearmotor 25Dx50L mm HP 12V
+motor driver   : Pololu - DRV8874
+---
+ball sensor    : tssp58038
+line sensor    : White LED
+                 NJL7502L
+---
+DCDC converter : OKLT6W12

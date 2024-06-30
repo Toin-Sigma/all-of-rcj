@@ -1,0 +1,20 @@
+Title:Sub-1 [ 変更値_値の差を直接代入【Main】 ] DAISEN C-Style for TJ3B  [ Ver.20171102 ]
+CN01:前
+CN02:右前
+CN03:右
+CN04:右後
+CN05:後
+CN06:左後
+CN07:左
+CN08:左前
+CN09:RED3
+CN10:RED2
+[0000]:sno:08,cno:08,val:111111-110030-002002,cmt:
+[0001]:sno:31,cno:31,val:000310-000000-000000,cmt:C-Ball
+[0002]:sno:31,cno:31,val:010320-000000-000000,cmt:CR-Ball
+[0003]:sno:31,cno:31,val:020330-000000-000000,cmt:R-Ball
+[0004]:sno:31,cno:31,val:030340-000000-000000,cmt:BR-Ball
+[0005]:sno:31,cno:31,val:040350-000000-000000,cmt:B-Ball
+[0006]:sno:31,cno:31,val:050360-000000-000000,cmt:BL-Baｌｌ
+[0007]:sno:31,cno:31,val:060370-000000-000000,cmt:L-Ball
+[0008]:sno:31,cno:31,val:070380-000000-000000,cmt:CL-Ball

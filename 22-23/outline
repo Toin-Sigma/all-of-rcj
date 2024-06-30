@@ -1,0 +1,16 @@
+
+frame          : aluminum
+cover          : 3D print (PLA)
+---
+battery        : Ni-MH 9.6V
+---
+microcomputer  : Daisendenshi - pic
+---
+motor          : Pololu - 20.4:1 Metal Gearmotor 25Dx50L mm HP 12V
+motor driver   : Daisendenshi - 4ch motor driver
+---
+ball sensor    : Daisendenshi - DSR2401
+line sensor    : White LED
+                 NJL7502L
+---
+DCDC converter : OKLT6W12

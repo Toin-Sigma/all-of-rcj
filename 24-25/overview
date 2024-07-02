@@ -1,0 +1,26 @@
+frame          : 3D print (PMMA)
+cover          : 3D print (PLA)
+                 3D print (Clear Resin)
+---
+battery        : Ni-MH 8.4V
+---
+microcomputer  : main        : Teensy 4.1
+                 line        : Arduino Mega 2560 Pro mini
+                 communicate : Seed Xiao ESP32C3
+---
+motor          : maxon  - RE16 Φ16 + GP16A
+                 Pololu - 9.7:1 Metal Gearmotor 25Dx50L mm HP 12V
+motor driver   : Pololu - DRV8874
+---
+ball sensor    : tssp58038
+line sensor    : Red LED
+                 NJL7502L
+---
+drribler       : BLDC - 
+---
+kicker         : PUSHSolenoid CB1037 10Ω
+---
+camera         : UnitV K210 AI Camera M12 Version (OV7740)
+               : Pixy 2.1
+---
+DCDC converter : OKLT6W12 *2
